@@ -33,11 +33,12 @@ If you want to clone this project and test these files on your local machine:
    ```bash
    git clone https://github.com/Shweta-coder8/Start_of_My_Java
    ```
-2. Navigate into the directory and compile any file (e.g., `evenodd.java`):
+2. Navigate into the directory and compile any file (e.g., `VehicleDemo.java`):
    ```bash
-   javac evenodd.java
+  cd "C:\Users\Admin\java\java projects\java-1.8.0-openjdk-1.8.0.492.b09-1.win.jdk.x86_64"
+.\bin\javac.exe VehicleDemo.java
    ```
 3. Run the compiled application:
    ```bash
-   java evenodd
+  .\bin\java.exe VehicleDemo
    ```
